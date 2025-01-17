@@ -9,6 +9,14 @@ class _1{
        *          Type mismatch: cannot convert from int to Double
        * 
        */
+
+        Object[] arr = new String [3];
+
+        arr[0] = 10;  //ArratStoreException
+
+        System.out.print(arr[0]);
+
+        
     }
 
 }
