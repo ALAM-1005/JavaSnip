@@ -15,7 +15,7 @@ class _1{
         arr[0] = 10;  //ArratStoreException
 
         System.out.print(arr[0]);
-
+ System.out.println("Hello My World");
         
     }
 
