@@ -16,6 +16,9 @@ class _1{
 
         System.out.print(arr[0]);
  System.out.println("Hello My World");
+
+        Demo m = new Demo();
+        
         
     }
 
